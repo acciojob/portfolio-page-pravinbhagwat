@@ -1,2 +1,19 @@
-
-/* Your CSS Code here. */
+body {
+    margin: 10px;
+    padding: 10px;
+}
+.profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+}
+header {
+   text-align: center;
+}
+.l-icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30px;
+}
